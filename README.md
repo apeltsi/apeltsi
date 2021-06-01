@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @apeltsi a fullstack developer working on a game framework for the web called Density
 - 👀 I’m interested in making tools for the modern web
 - 🌱 I’m currently learning React and NextJS
-- 📫 Message me on discord apeltsi#7884
+- 📫 Message me on discord apeltsi#0001
