@@ -1,3 +1,3 @@
-👋 Hi, I’m @apeltsi and im working on [Atlas](https://github.com/apeltsi/Atlas)
+👋 Hi, I’m @apeltsi and im working on [taika](https://github.com/apeltsi/taika) and [loitsu](https://github.com/apeltsi/loitsu)
 
 https://solidco.de
